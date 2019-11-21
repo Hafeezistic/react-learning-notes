@@ -6,3 +6,4 @@ Personal notes when learning React written in English.
 
 - [Basics](/basics)
 - [Reusability](/reusability)
+- [Performance](/performance)

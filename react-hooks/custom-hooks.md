@@ -15,7 +15,7 @@ useCounter.js
 ```js
 import {useState} from "react"
 
-export default function useState() {
+export default function useCounter() {
     const [count, setCount] = useState(0)
     function increment() {
         setCount(p => p + 1)

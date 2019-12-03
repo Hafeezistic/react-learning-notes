@@ -8,4 +8,5 @@ Personal notes when learning React written in English.
 - [Reusability](/reusability)
 - [Performance](/performance)
 - [React Context](/react-context)
-
+- [React Hooks](/react-hooks)
+- [React Router](/react-router)

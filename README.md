@@ -10,3 +10,4 @@ Personal notes when learning React written in English.
 - [React Context](/react-context)
 - [React Hooks](/react-hooks)
 - [React Router](/react-router)
+- [Redux](/redux)
